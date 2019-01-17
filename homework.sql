@@ -154,14 +154,5 @@ ON a.city_id = cy.city_id
 JOIN country ct
 ON cy.country_id = ct.country_id;
 
--- 7 H.)
--- Skipped, couldn't figure out, will review when solution is posted.
-
--- 8 A./B.)
--- Skipped like 7H, unable will review.
--- 8 C)
-ALTER TABLE top_five_genres
-DROP VIEW top_five_genres;
-
 
 
